@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Link Gatherer Plugin",
+  "description": "This plugin moves links from articles to the bottom of the page",
+  "version": "1.02",
+  "icons": { "128": "icon_128.png"},
+  "content_scripts": [
+    {
+      "matches": ["http://*/*"],
+      "js": ["jquery.min.js","link_gatherer.js"]
+    }
+  ],
+  "browser_action": {
+   "default_icon": "icon.png"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
