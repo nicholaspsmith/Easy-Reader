@@ -21,6 +21,8 @@ Good sites to test on
 
 * [Wired](http://wired.com)
 * [Gizmodo](http://gizmodo.com)
+* [Muscle and Fitness](http://www.muscleandfitness.com/)
+* and many more!
 
 Contact me
 ----------
