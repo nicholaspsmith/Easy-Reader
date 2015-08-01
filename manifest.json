@@ -8,7 +8,7 @@
   "content_scripts": [
     {
       "matches": ["http://*/*"],
-      "js": ["jquery.min.js","link_gatherer.js"]
+      "js": ["docready.js","link_gatherer.js"]
     }
   ],
   "browser_action": {
