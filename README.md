@@ -16,9 +16,10 @@ If you really want to mess around with it (really, it's only 20 lines of Javascr
 + Navigate to an [article](http://www.wired.com/2015/04/ultima-viii-pagan-free/) and read in peace
 * Smile :)
 
-Tested sites
+Good sites to test on
 -----------
 [Wired](http://wired.com)
+[Gizmodo](http://gizmodo.com)
 
 Contact me
 ----------
