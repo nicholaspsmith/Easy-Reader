@@ -7,7 +7,7 @@ How to use
 --------
 Just chill out. Once I get the bugs worked out I will put it on the Chrome Web Store. (For free of course)
 
-If you really want to mess around with it (really, it's only 20 lines of Javascript), then go ahead and clone it down and fire up Chrome:
+If you really want to mess around with it, then go ahead and clone it down, fire up Chrome, and do the following:
 
 + Navigate to chrome://extensions/
 * Check 'Developer mode'
