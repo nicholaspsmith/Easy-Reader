@@ -1,16 +1,16 @@
 docReady(function(){
   var article = document.getElementsByTagName('article');
-  if (article) {
+  if (typeof article !== 'undefined') {
     article[0].innerHTML += '<div class="link-collection"><h3>Collected Links</h3></div>';
   }
   var lc = document.getElementsByClassName('link-collection');
-  if (lc) {
+  if (typeof lc !== 'undefined') {
     lc = lc[0];
     lc.style.textAlign = 'center';
     lc.style.margin = '30px 0 0';
   }
   var p = document.querySelectorAll('article p');
-  if (p) {
+  if (typeof p !== 'undefined') {
     p = p[0];
     if (typeof p !== 'undefined') {
       var pColor = getComputedStyle(p)['color'];
