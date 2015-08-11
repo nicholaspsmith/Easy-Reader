@@ -1,7 +1,7 @@
-Link Gatherer
+Easy Reader
 =======
 
-A simple chrome extension that takes all of the links out of the body of an article, placing them at the bottom. I created this to improve the readability of articles and prevent myself from falling into link rabbit-holes.
+A simple chrome extension that takes all of the links out of the body of an article, placing them at the bottom. The plugin makes articles easier to read for people who are easily distracted. The current iteration of the plugin simply pulls the links out of the article, but in the future, it should remove anything distracting from the page (images, autoplay videos, 'blink' tags, etc...)
 
 How to use
 --------
@@ -26,5 +26,7 @@ Good sites to test on
 
 Contact me
 ----------
+If you find any issues with the plugin, let me know what site you encountered them on. If you have suggestions for the app feel free to fork it, or send me a pull request. 
+
 [me@nicholaspsmith.com](mailto:me@nicholaspsmith.com)
 
