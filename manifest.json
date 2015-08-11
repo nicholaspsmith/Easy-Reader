@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Link Gatherer Plugin",
+  "name": "Easy Reader",
   "description": "This plugin moves links from articles to the bottom of the page",
   "version": "1.02",
   "icons": { "128": "icon_128.png"},
