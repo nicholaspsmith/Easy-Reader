@@ -1,6 +1,8 @@
 Easy Reader
 =======
 
+@TODO: Allow enable/disable by clicking icon in chrome toolbar.
+
 A simple chrome extension that takes all of the links out of the body of an article, placing them at the bottom. The plugin makes articles easier to read for people who are easily distracted. The current iteration of the plugin simply pulls the links out of the article, but in the future, it should remove anything distracting from the page (images, autoplay videos, 'blink' tags, etc...)
 
 How to use
